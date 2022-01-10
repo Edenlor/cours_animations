@@ -1,0 +1,19 @@
+{
+  "name": "cours_animations",
+  "version": "1.0.0",
+  "description": "cours animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edenlor/cours_animations.git"
+  },
+  "author": "Eden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edenlor/cours_animations/issues"
+  },
+  "homepage": "https://github.com/Edenlor/cours_animations#readme"
+}
